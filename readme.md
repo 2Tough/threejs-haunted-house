@@ -1,4 +1,4 @@
-# 3D House
+# threejs-haunted-house
  A house made to practice what I have learned in three js.
 
  Live preview:
